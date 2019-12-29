@@ -3,6 +3,10 @@ Máquina virtual en español destinada a la búsqueda de información en fuentes
 
 Descarga desde Google Drive: https://drive.google.com/uc?id=16xELTbj6GEmjQN7TGzBhdOVmeHiy8JG4&export=download
 
+Password del zip: deltoromarin
+
+Usuario: osint Password: osint
+
 Herramientas incluidas:
 
 1.	Aquatone
